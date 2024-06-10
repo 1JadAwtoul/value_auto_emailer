@@ -1,0 +1,26 @@
+2024-06-10 16:43:36,759:INFO:Script started
+2024-06-10 16:43:36,759:INFO:Database connection established
+2024-06-10 16:43:36,759:INFO:Invoice 23 has already been sent
+2024-06-10 16:43:36,759:INFO:Invoice 23456 has already been sent
+2024-06-10 16:43:36,759:INFO:Invoice 54876767 has already been sent
+2024-06-10 16:43:36,759:INFO:Invoice 98765435678907654 has already been sent
+2024-06-10 16:43:36,759:INFO:Invoice 987678 has already been sent
+2024-06-10 16:43:36,774:INFO:Script finished
+2024-06-10 16:44:08,107:INFO:Script started
+2024-06-10 16:44:08,107:INFO:Database connection established
+2024-06-10 16:44:08,107:INFO:Invoice 23 has already been sent
+2024-06-10 16:44:08,107:INFO:Invoice 23456 has already been sent
+2024-06-10 16:44:08,107:INFO:Invoice 54876767 has already been sent
+2024-06-10 16:44:08,107:INFO:Invoice 98765435678907654 has already been sent
+2024-06-10 16:44:08,107:INFO:Invoice 987678 has already been sent
+2024-06-10 16:44:08,107:INFO:Script finished
+2024-06-10 16:44:28,417:INFO:Script started
+2024-06-10 16:44:28,418:INFO:Database connection established
+2024-06-10 16:44:28,420:INFO:Invoice 23456 has already been sent
+2024-06-10 16:44:30,888:INFO:Email sent for invoice: 234567898765432134567
+2024-06-10 16:44:30,931:INFO:Invoice 234567898765432134567 recorded as sent
+2024-06-10 16:44:30,931:INFO:Waiting for 15 seconds before sending the next email
+2024-06-10 16:44:45,934:INFO:Invoice 54876767 has already been sent
+2024-06-10 16:44:45,934:INFO:Invoice 98765435678907654 has already been sent
+2024-06-10 16:44:45,934:INFO:Invoice 987678 has already been sent
+2024-06-10 16:44:45,934:INFO:Script finished
